@@ -46,7 +46,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I used my creativity to come up with a design for the app. I modified an existing vector avatar to create a custom avatar of my own.
 
 ## License
 
