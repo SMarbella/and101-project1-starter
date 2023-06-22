@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **The interface acts as a simple profile page. It is a still image and does not have any buttons.**
 
 If I had to describe this project in three (3) emojis, they would be: **🎨🖼️🖌️**
 
@@ -35,9 +35,9 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/MC3ldpS.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -46,7 +46,7 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-I used my creativity to come up with a design for the app. I modified an existing vector avatar to create a custom avatar of my own.
+This app shows my creative side in mobile app development. I used my creativity to come up with a design for the app. I modified an existing vector avatar to create a custom avatar of my own.
 
 ## License
 
